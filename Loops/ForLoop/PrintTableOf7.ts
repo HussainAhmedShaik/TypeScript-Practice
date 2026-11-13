@@ -1,0 +1,5 @@
+let num:number=7;
+for(let i:number=1;i<=10;i++){
+    //console.log(num+" * "+i+" = "+(num*i));
+    console.log(`${num} * ${i} = ${num*i}`);
+}
