@@ -1,0 +1,10 @@
+Tyep/Data Type
+Annotations
+Type Inference
+
+let age:number=30;
+number--->Data Type
+Annotation--->:number
+Type Reference
+---
+let age=30
